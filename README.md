@@ -1,26 +1,3 @@
-
-<a href="https://github.com/MariaGarciaB">
-	<img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/MariaGarciaB">
-	<img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/MariaGarciaB">
-	<img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-<a href="https://github.com/MariaGarciaB">
-	<img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-<a href="https://github.com/MariaGarciaB">
-	<img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/MariaGarciaB">
-	<img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/MariaGarciaB">
-	<img align="center" width="49%" src="./achievements.svg" />
-</a>
-
+(https://github.com/MariaGarciaB/mariagarciab/assets/122326708/b0425e8f-3e27-4209-8268-ed1b83be46cc)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariagarbar/)
