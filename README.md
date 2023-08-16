@@ -19,5 +19,6 @@
                
 </div>
 </div>
+ <br><br>
+ ![SeeUs](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/53b431c0-9958-46d7-87a5-cb5bed8cd0f5)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariagarbar/)
