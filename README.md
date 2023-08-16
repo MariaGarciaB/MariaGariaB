@@ -1,11 +1,11 @@
 
 ![gitHubPresentacion](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/5b2d2793-c513-4fe4-b471-7757b5e2baf7)
-
+<br> <br>
 <div class= "tecnologías">
-<h1 align="center">🛠 Tecnologías</h3>
+<h1 align="left">🛠 Tecnologías</h1>
 <br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
