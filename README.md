@@ -20,5 +20,6 @@
 </div>
 </div>
  <br><br>
- ![SeeUs](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/53b431c0-9958-46d7-87a5-cb5bed8cd0f5)
-
+ <div align="right">
+ <h2> See You Soon!! </h2>
+ </div>
