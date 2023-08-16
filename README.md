@@ -20,6 +20,6 @@
 </div>
 </div>
  <br><br>
- <div align="right">
+ <div align="center">
  <h2> See You Soon!! </h2>
  </div>
