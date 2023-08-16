@@ -2,7 +2,7 @@
 ![gitHubPresentacion](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/5b2d2793-c513-4fe4-b471-7757b5e2baf7)
 <br> <br>
 <div class= "tecnologías">
-### Tecnologías y Herramientas
+<h1>Tecnologías y Herramientas </h1>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="javascriptIcon logo" />
