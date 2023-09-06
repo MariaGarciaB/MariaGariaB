@@ -20,5 +20,5 @@
 </div>
  <br><br>
  <div align="center">
- <h2> See You Soon!! </h2>
+ <h2> Hasta pronto!! </h2>
  </div>
