@@ -1,5 +1,4 @@
-
-![gitHubPresentacion](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/5b2d2793-c513-4fe4-b471-7757b5e2baf7)
+![Captura](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/dca1bdf8-905a-4e1b-bafc-7288a9091f3f)
 <br> <br>
 <div class= "tecnologías" align="center">
 <h1>Tecnologías y Herramientas </h1>
