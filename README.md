@@ -24,6 +24,14 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" width="60" alt="jestIcon" /><br>
       Jest
+    </td>   
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="45" width="60" alt="firebaseIcon" /><br>
+      SQLite
+    </td>
+    <td align="center">
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg](https://a.fsdn.com/allura/s/flowise/icon?482284d360fc4456bf068bc5e08cecf3981a1b911c7d255ba5e6f7f2412f0253?&w=148)" height="45" width="60" alt="firebaseIcon" /><br>
+      Flowise
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="45" width="60" alt="firebaseIcon" /><br>
