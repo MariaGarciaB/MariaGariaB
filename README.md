@@ -4,9 +4,9 @@
 
 Te comparto algunos de  los proyectos que he realizado.
 
-Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad y profesionalismo, es lo que puedes estar seguro de que puedo aportar.
+Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad y profesionalismo, es lo que puedes estar seguro que puedo aportar.
 
-Gracias por tomarte el tiempo de conocer un poco de mi trabajo.
+Gracias por tomarte el tiempo de conocer mi trabajo.
 
 <h3 align="right">Saludos!!!</h3>
 
