@@ -1,7 +1,7 @@
  ![bannerGitHub](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/00575841-88fd-48b0-9fb6-4b56ef957b38)
-<img width="35%" align="right" alt="Github" src="[https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif]>
-<br>![fondo5](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/27571608-ce6e-4fa0-ab5d-60b91c8af97b)
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
 
+<br>
 <h3>Bienvenid@ a mi perfil de GitHub</h3>
 
 Te comparto algunos de  los proyectos que he realizado.
