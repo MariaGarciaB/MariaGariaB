@@ -10,7 +10,7 @@ Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprend
 </div>
 <br><br>
 <div class= "tecnologías" align="center">
-<h1>Tecnologías y Herramientas</h1>
+<h2>Tecnologías y Herramientas</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="javascriptIcon logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="htmlIcon" />
@@ -26,5 +26,5 @@ Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprend
 </div>
  <br><br>
  <div align="center">
- <h2> Hasta pronto!! </h2>
+ <h3> Hasta pronto!! </h3>
  </div>
