@@ -7,7 +7,8 @@ Te comparto algunos de  los proyectos que he realizado.
 Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.
 <div>
 
- <img width="35%" align="right" alt="Github" src="[https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif](https://img.freepik.com/vector-gratis/ilustracion-sql-diseno-plano-dibujado-mano_23-2149262964.jpg?w=740&t=st=1698729205~exp=1698729805~hmac=be2c1d11387f5dfd49f35b72536feb19317d8239bd22950c1b60695750a25eb8)">
+<img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-codificacion_114360-4348.jpg" alt="Ilustración de programación" width="400" height="300">
+
 
 <h3 align="right">Saludos!!</h3>
 </div>
