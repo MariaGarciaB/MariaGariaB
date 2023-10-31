@@ -5,14 +5,18 @@
 <br>
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" /><br> JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="HTML Logo" /><br> HTML5
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="60" alt="CSS Logo" /><br> CSS3
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="HTML Logo" /><br> HTML5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" /><br> JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="HTML Logo" /><br> HTML5
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="60" alt="CSS Logo" /><br> CSS3
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="60" alt="CSS Logo" /><br> CSS3
+ 
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="javascriptIcon logo" /> JavaScript
