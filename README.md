@@ -1,11 +1,11 @@
  ![bannerGitHub](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/00575841-88fd-48b0-9fb6-4b56ef957b38)
 <br>
-## Bienvenid@ a mi perfil de GitHub
+<h3>Bienvenid@ a mi perfil de GitHub</h3>
 
 Te comparto algunos de  los proyectos que he realizado.
 
 Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.
-<div aling="left">
+<div aling="right">
 <h3>Saludos!!</h3>
 </div>
 <br><br>
