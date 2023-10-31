@@ -1,7 +1,7 @@
 ![Captura](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/dca1bdf8-905a-4e1b-bafc-7288a9091f3f)
 <br> <br>
 <div class= "tecnologías" align="center">
-# Tecnologías y Herramientas
+<h1>Tecnologías y Herramientas</h1>
 
 <table border="0">
   <tr>
