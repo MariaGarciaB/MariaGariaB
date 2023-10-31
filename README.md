@@ -1,6 +1,11 @@
-![Captura](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/dca1bdf8-905a-4e1b-bafc-7288a9091f3f)
-<br> ![bannerGitHub](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/00575841-88fd-48b0-9fb6-4b56ef957b38)
+ ![bannerGitHub](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/00575841-88fd-48b0-9fb6-4b56ef957b38)
 <br>
+Bienvenid@ a mi perfil de GitHub, te comparto algunos de  los proyectos que he realizado.      
+Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.
+<div class= "tecnologías" align="rigth">
+<h1>Saludos!!</h1>
+</div>
+<br><br>
 <div class= "tecnologías" align="center">
 <h1>Tecnologías y Herramientas</h1>
 <div align="center">
