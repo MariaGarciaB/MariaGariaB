@@ -5,18 +5,13 @@
 Te comparto algunos de  los proyectos que he realizado.
 
 Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.
-![fondo5](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/6f2df49e-774f-4ab3-a559-0dae124937e6)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p>
     Te comparto algunos de los proyectos que he realizado.
     Sobre de mí, el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.
   </p>
- ![fondo5](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/0dfea4d6-67e8-4be0-a7a3-7739992399b5 "Imagen de perfil"){: width="200" height="200"}
-
- ![fondo5](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/0dfea4d6-67e8-4be0-a7a3-7739992399b5)
-
-  <img src="(https://github.com/MariaGarciaB/mariagarciab/assets/122326708/de24bc62-0227-42ea-b017-e9d5f588d439" alt="Imagen de perfil" width="200" height="200">
+ ![fondo5](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/0dfea4d6-67e8-4be0-a7a3-7739992399b5){: width="200" height="200"}
 </div>
 <div>
 <h3 align="right">Saludos!!</h3>
