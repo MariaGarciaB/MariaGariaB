@@ -8,14 +8,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="60" alt="cssLogo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" width="60" alt="nodeJsIcon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" width="60" alt="jestIcon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="45" width="60" alt="SQLiteIcon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="45" width="60" alt="firebaseIcon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="60" alt="gitIcon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" width="60" alt="npmIcon" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" width="60" alt="figmaIcon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="45" width="60" alt="trelloIcon" />    
 </div>
-  ![tenologías](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/6f7a9795-d9b3-44c1-8d9b-e4b73cd112be)
-
  <br><br>
  <div align="center">
  <h2> Hasta pronto!! </h2>
