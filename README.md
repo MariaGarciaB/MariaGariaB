@@ -4,7 +4,7 @@
 <h1>Tecnologías y Herramientas </h1>
 <br>
 
-  <table border="0px">
+  <table style="border: none;">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" /><br>
