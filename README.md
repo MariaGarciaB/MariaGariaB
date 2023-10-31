@@ -5,11 +5,9 @@
 Te comparto algunos de  los proyectos que he realizado.
 
 Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.
-<div>
 
 <h3 align="right">Saludos!!</h3>
-<img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-actividad-desarrollador_114360-4066.jpg" alt="Ilustración de programación" width="300" height="400">
-</div>
+
 <br><br>
 <div class= "tecnologías" align="center">
 <h2>Tecnologías y Herramientas</h2>
