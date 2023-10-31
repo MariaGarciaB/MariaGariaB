@@ -21,6 +21,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" width="60" alt="nodeJsIcon" /><br>
       Node.js
     </td>
+      </tr>
+</table>
+<table border="0">
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" width="60" alt="jestIcon" /><br>
       Jest
@@ -30,13 +34,16 @@
       SQLite
     </td>
     <td align="center">
-      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg](https://a.fsdn.com/allura/s/flowise/icon?482284d360fc4456bf068bc5e08cecf3981a1b911c7d255ba5e6f7f2412f0253?&w=148)" height="45" width="60" alt="firebaseIcon" /><br>
       Flowise
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="45" width="60" alt="firebaseIcon" /><br>
       Firebase
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
      <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="60" alt="gitIcon" /><br>
       Git
