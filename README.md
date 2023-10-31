@@ -2,8 +2,8 @@
 <br>
 Bienvenid@ a mi perfil de GitHub, te comparto algunos de  los proyectos que he realizado.      
 Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.
-<div class= "tecnologías" align="rigth">
-<h1>Saludos!!</h1>
+<div class= "tecnologías" align="left">
+<h3>Saludos!!</h3>
 </div>
 <br><br>
 <div class= "tecnologías" align="center">
