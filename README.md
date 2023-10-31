@@ -2,76 +2,18 @@
 <br> <br>
 <div class= "tecnologías" align="center">
 <h1>Tecnologías y Herramientas</h1>
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" /><br>
-      JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="HTML Logo" /><br>
-      HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="60" alt="CSS Logo" /><br>
-      CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" width="60" alt="nodeJsIcon" /><br>
-      Node.js
-    </td>
-      </tr>
-</table>
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" width="60" alt="jestIcon" /><br>
-      Jest
-    </td>   
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="45" width="60" alt="firebaseIcon" /><br>
-      SQLite
-    </td>
-    <td align="center">
-      Flowise
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="45" width="60" alt="firebaseIcon" /><br>
-      Firebase
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="60" alt="gitIcon" /><br>
-      Git
-    </td>
-     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" width="60" alt="npmIcon" />  <br>
-      Npm
-    </td>     
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" width="60" alt="figmaIcon" />  <br>
-      Figma
-    </td>    
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="45" width="60" alt="trelloIcon" /> 
-      <br>
-      Trello
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div>
-  <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" /><p align="center">JavaScript</p></div>
-  <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" /><p align="center">JavaScript</p></div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="javascriptIcon logo" /> JavaScript
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="htmlIcon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="60" alt="cssLogo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" width="60" alt="nodeJsIcon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" width="60" alt="jestIcon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="45" width="60" alt="firebaseIcon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="60" alt="gitIcon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" width="60" alt="npmIcon" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" width="60" alt="figmaIcon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="45" width="60" alt="trelloIcon" />
+               
 </div>
  <br><br>
  <div align="center">
