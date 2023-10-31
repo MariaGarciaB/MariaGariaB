@@ -12,17 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="60" alt="gitIcon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" width="60" alt="npmIcon" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" width="60" alt="figmaIcon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="45" width="60" alt="trelloIcon" />
-   <div style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="JavaScript Logo" /><br>
-    JavaScript
-  </div>
-  
-  <div style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="HTML Logo" /><br>
-    HTML5
-  </div>            
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="45" width="60" alt="trelloIcon" />    
 </div>
+  ![tenologías](https://github.com/MariaGarciaB/mariagarciab/assets/122326708/6f7a9795-d9b3-44c1-8d9b-e4b73cd112be)
+
  <br><br>
  <div align="center">
  <h2> Hasta pronto!! </h2>
