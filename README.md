@@ -5,7 +5,7 @@
 Te comparto algunos de  los proyectos que he realizado.
 
 Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.
-<div aling="right">
+<div style="text-align: right;">
 <h3>Saludos!!</h3>
 </div>
 <br><br>
