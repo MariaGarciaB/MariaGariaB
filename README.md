@@ -4,7 +4,6 @@
 <h1>Tecnologías y Herramientas </h1>
 <br>
 </div>
-<div align="center">
   <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="javascriptIcon logo" /><br> JavaScript </div>
   <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="htmlIcon" /><br>HTML</div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="60" alt="cssLogo" />
@@ -16,7 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" width="60" alt="figmaIcon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="45" width="60" alt="trelloIcon" />
                
-</div>
 </div>
  <br><br>
  <div align="center">
