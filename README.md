@@ -20,6 +20,17 @@ Sobre de mí,  el dar mi 100%, un enfoque abierto y adaptable para seguir aprend
   </p>
   <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-actividad-desarrollador_114360-4066.jpg" alt="Ilustración de programación" width="200" height="200">
 </div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    <h3>Bienvenid@ a mi perfil de GitHub</h3>
+    <p>Te comparto algunos de los proyectos que he realizado. Sobre de mí, el dar mi 100%, un enfoque abierto y adaptable para seguir aprendiendo de cada proyecto y cada integrante del equipo, responsabilidad, profesionalismo, es lo que puedes tener certeza que voy a sumar a tu equipo de desarrollo.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-actividad-desarrollador_114360-4066.jpg" alt="Ilustración de programación" width="400" height="300">
+  </div>
+</div>
+
 <br><br>
 <div class= "tecnologías" align="center">
 <h2>Tecnologías y Herramientas</h2>
